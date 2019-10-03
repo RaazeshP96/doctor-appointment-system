@@ -1,0 +1,4 @@
+Requirements:
+    -python 3.7.3
+    -django 2.2.6
+    -msqlite 3 database
